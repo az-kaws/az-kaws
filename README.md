@@ -1,4 +1,4 @@
-## Hi there 👋
+## HELLO 👋
 
 <!--
 **az-kaws/az-kaws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔒 Aspiring SOC Analyst
+
+🔭 I’m currently working on documenting red + blue team attack simulations
+
+📍 [Check out my lab](https://github.com/az-kaws/soc-portfolio)
+
